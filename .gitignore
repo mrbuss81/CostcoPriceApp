@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# ---- Virtual Environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- macOS files ----
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ---- Editor / IDE ----
+.vscode/
+.idea/
+
+# ---- Project-specific ----
+CostcoPriceApp/price_log.csv
+CostcoPriceApp/sample_product.html
+CostcoPriceApp/notes.md
+CostcoPriceApp/sample_urls.txt
+
+# ---- Environment & Config ----
+.env
+*.sqlite3
+

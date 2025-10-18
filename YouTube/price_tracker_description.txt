@@ -1,0 +1,12 @@
+🎬 Here’s the ready-to-use YouTube Blurb
+Title:
+🧠 I Built a Costco Price Tracker in Python (as a CS Student Dad!)
+Description:
+In this video, I build a Costco Price Tracker from scratch using Python and BeautifulSoup.
+It logs product prices, detects price drops, and saves results automatically — perfect for anyone learning to code or trying to save money!
+This is my first real-world coding project as part of The CompSci RV Dad journey — studying computer science, raising kids, and living the RV life while chasing a tech career.
+💻 Tech: Python, BeautifulSoup, CSV, datetime
+📈 Next: add charts, email alerts, and live web scraping!
+Subscribe if you love practical learning, dad energy, and simple coding wins 🚐💡
+Tags (for upload page):
+python project, web scraping, price tracker, computer science student, costco, compsci rvdad, beautifulsoup, beginner python project, coding for students, learn to code
