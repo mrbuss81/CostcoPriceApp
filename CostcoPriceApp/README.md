@@ -1,3 +1,9 @@
+![Costco Price Tracker Preview](preview.png)
+<p align="center">
+  <img src="preview.png" width="600" alt="Costco Price Tracker Preview">
+</p>
+
+
 🧾 README: Costco Price Tracker (MVP)
 🧠 Overview
 The Costco Price Tracker is a Python-based tool that monitors product prices and automatically logs changes over time.
