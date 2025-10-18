@@ -1,4 +1,3 @@
-![Costco Price Tracker Preview](preview.png)
 <p align="center">
   <img src="preview.png" width="600" alt="Costco Price Tracker Preview">
 </p>
