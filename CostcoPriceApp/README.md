@@ -64,6 +64,17 @@ Outputs are saved under `/data/` and deltas logged automatically.
 
 ---
 
+
+### ⚡ Quick Setup Tip
+
+After installing dependencies, you’ll need to install Playwright’s browser binaries once:
+
+```bash
+playwright install chromium
+
+
+---
+
 ## 🧠 Design Highlights
 - **Readable Pipeline:** Each phase (scrape → save → compare → log) is separated into modular scripts.  
 - **Data Integrity:** Old files archived before new runs.  
