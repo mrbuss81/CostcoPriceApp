@@ -71,7 +71,11 @@ After installing dependencies, you’ll need to install Playwright’s browser b
 
 ```bash
 playwright install chromium
+```
 
+
+This downloads the headless browser used for scraping Costco pages.  
+You only need to run it once on a new environment or machine.
 
 ---
 
