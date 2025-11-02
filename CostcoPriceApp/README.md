@@ -110,8 +110,8 @@ You only need to run it once on a new environment or machine.
 ## 🧭 Author
 **Michael Buss**  
 Computer Science Undergraduate – University of the Fraser Valley  
-GitHub: [mrbuss81](https://github.com/mrbuss81)  |  [CompSciRVDad](https://github.com/CompSciRVDad)  
-📫 michaelbuss@ufv.ca  
+GitHub: [mrbuss81](https://github.com/mrbuss81)  |  [CompSciRVDad](https://github.com/@rvCSdad2025)  
+📫 michael.buss@student.ufv.ca  
 
 ---
 
